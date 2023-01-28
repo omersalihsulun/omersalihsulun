@@ -1,12 +1,12 @@
-<h3 align="center">Backend developer, DevOps student from Turkey.</h3>
+<h3 align="center">Backend developer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omersalihsulun&label=Profile%20views&color=0e75b6&style=flat" alt="omersalihsulun" /> </p>
 
-- 🔭 I’m currently working on [Rotaboo](https://www.rotaboo.com/)
+- 🔭 I’m currently working on [Epinium](https://www.epinium.net/)
 
-- 🌱 I’m currently learning **Linux, Docker, Jenkins, Kubernetes**
+- 🌱 I’m currently learning **Java Spring Framework**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, C#, .NET**
 
 - 📫 How to reach me **omersalih.sulun@gmail.com**
 
